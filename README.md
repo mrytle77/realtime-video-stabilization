@@ -27,5 +27,5 @@ This program works like an EIS (Electronic Image stabilization), Originally the 
 This example shows how, the lable on my book is stabilised and displayed on the other window even though the move my book in different angles and directions.  
 Note: As I get the book closer to the screen the clarity of the output window also increases.
 <p align="center">
-  <img width="500" src="https://github.com/the-confused-genius/realtime-video-stabilization/blob/main/example.gif" alt="Example">
+  <img width="500" src="https://github.com/mrytle77/realtime-video-stabilization/blob/main/example.gif" alt="Example">
 </p>
